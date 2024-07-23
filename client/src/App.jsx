@@ -1,13 +1,13 @@
-import { BrowserRouter } from "react-router-dom";
-import NavBar from "./components/navBar/NavBar";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './components/header/Header';
 
 
 function App() {
 
     return (
-        <BrowserRouter>
-            <NavBar />
-        </BrowserRouter>
+        <>
+            <Header />
+        </>
     );
 }
 
