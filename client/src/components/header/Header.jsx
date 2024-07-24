@@ -9,7 +9,7 @@ function Header() {
                 <Container>
                     <Navbar.Brand href="#home">The Bliss of React</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link href="#home">Posts</Nav.Link>
+                        <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#features">About</Nav.Link>
                         <Nav.Link href="#pricing">Login</Nav.Link>
                         <Nav.Link href="#pricing">Register</Nav.Link>
