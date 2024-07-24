@@ -11,3 +11,4 @@
 * Install react-router-dom
 * Setup react-router-dom
 * Add routes in app.jsx
+* Add links in the navigation
