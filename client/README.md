@@ -12,3 +12,5 @@
 * Setup react-router-dom
 * Add routes in app.jsx
 * Add links in the navigation
+
+## 3. Page implementations
